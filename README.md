@@ -1,3 +1,4 @@
 # git_test_dir
 
-Initial Commit
+* Initial Commit
+* 2nd commit with test_br
